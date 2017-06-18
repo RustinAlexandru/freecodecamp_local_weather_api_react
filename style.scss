@@ -1,0 +1,22 @@
+#app {
+  margin-top: 10%;
+}
+
+.weather-location {
+  #city {
+    font-size: 2em;
+  }
+  
+  #country {
+    font-size: 2em;
+  }
+}
+
+.unit {
+  cursor:pointer;
+  color:#006dcc;
+}
+
+.unit:hover{
+  color:#005096;
+}
